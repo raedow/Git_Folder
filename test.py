@@ -1,2 +1,6 @@
 # main file
-print("hello world")
+
+def swap(x,y):
+    temp = x
+    x = y
+    y = temp
